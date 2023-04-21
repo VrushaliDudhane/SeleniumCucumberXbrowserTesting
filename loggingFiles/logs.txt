@@ -1,0 +1,96 @@
+INFO	2023-04-21 13:44:26,827	0	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[main]	TripAdvisor Home Page opened
+INFO	2023-04-21 13:44:30,296	3469	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[main]	Agoda logo has been displayed
+INFO	2023-04-21 13:44:34,444	7617	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[main]	Sign In Link Is displayed and Clickable
+ERROR	2023-04-21 13:44:43,953	17126	com.tripAdvisor.webApp.base.BasePage	[main]	By.cssSelector: button[id='googleBtn']  Element could Not Be found on DOM
+INFO	2023-04-21 13:45:04,434	37607	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[main]	Continue with email displayed
+INFO	2023-04-21 13:45:23,119	56292	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[main]	Continue with Google displayed
+INFO	2023-04-21 13:45:23,164	56337	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[main]	Continue with email displayed
+INFO	2023-04-21 13:45:23,938	57111	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[main]	User Home Page Opened
+INFO	2023-04-21 13:45:40,520	73693	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[main]	Continue with email displayed
+INFO	2023-04-21 13:45:43,827	77000	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[main]	User cannot login to the application with invalid credentials
+INFO	2023-04-21 13:46:00,284	93457	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[main]	Continue with email displayed
+ERROR	2023-04-21 13:46:21,256	114429	com.tripAdvisor.webApp.base.BasePage	[main]	By.xpath: //*[@id='regErrors']/ul/li  Element could Not Be found on DOM Within given wait time
+ERROR	2023-04-21 13:46:21,286	114459	com.tripAdvisor.webApp.base.BasePage	[main]	By.xpath: //*[@id='regErrors']/ul/li  Element could Not Be found on DOM
+ERROR	2023-04-21 13:46:30,189	123362	com.tripAdvisor.webApp.base.BasePage	[main]	By.cssSelector: button[class='ui_button w100p regEmailContinue newRegFormButtonStyles roundedRegFormButton emailButtonMargin']>span[class='textContainer']  Element could Not Be found on DOM
+INFO	2023-04-21 13:46:40,136	133309	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[main]	Continue with email displayed
+INFO	2023-04-21 14:06:25,368	0	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[main]	TripAdvisor Home Page opened
+INFO	2023-04-21 14:06:28,937	3569	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[main]	Agoda logo has been displayed
+INFO	2023-04-21 14:06:32,422	7054	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[main]	Sign In Link Is displayed and Clickable
+INFO	2023-04-21 14:06:42,664	17296	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[main]	Continue with Google displayed
+ERROR	2023-04-21 14:07:22,689	57321	com.tripAdvisor.webApp.base.BasePage	[main]	By.cssSelector: a[class='rmyCe _G B- z _S c Wc wSSLS w jWkoZ sOtnj']  Element Is not clickable
+ERROR	2023-04-21 14:07:51,481	86113	com.tripAdvisor.webApp.base.BasePage	[main]	By.cssSelector: a[class='rmyCe _G B- z _S c Wc wSSLS w jWkoZ sOtnj']  Element Is not clickable
+ERROR	2023-04-21 14:08:19,963	114595	com.tripAdvisor.webApp.base.BasePage	[main]	By.cssSelector: a[class='rmyCe _G B- z _S c Wc wSSLS w jWkoZ sOtnj']  Element Is not clickable
+ERROR	2023-04-21 14:08:48,909	143541	com.tripAdvisor.webApp.base.BasePage	[main]	By.cssSelector: a[class='rmyCe _G B- z _S c Wc wSSLS w jWkoZ sOtnj']  Element Is not clickable
+INFO	2023-04-21 14:09:00,052	154684	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[main]	Continue with email displayed
+ERROR	2023-04-21 14:09:20,540	175172	com.tripAdvisor.webApp.base.BasePage	[main]	By.cssSelector: div[class='body_text']  Element could Not Be found on DOM Within given wait time
+ERROR	2023-04-21 14:09:39,633	194265	com.tripAdvisor.webApp.base.BasePage	[main]	By.cssSelector: button[class='ui_button w100p regEmailContinue newRegFormButtonStyles roundedRegFormButton emailButtonMargin']>span[class='textContainer']  Element could Not Be found on DOM
+INFO	2023-04-21 14:12:48,684	0	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[main]	TripAdvisor Home Page opened
+INFO	2023-04-21 14:14:31,255	0	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[main]	TripAdvisor Home Page opened
+INFO	2023-04-21 14:14:34,285	3030	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[main]	Agoda logo has been displayed
+INFO	2023-04-21 14:14:37,397	6142	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[main]	Sign In Link Is displayed and Clickable
+INFO	2023-04-21 14:14:46,778	15523	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[main]	Continue with Google displayed
+INFO	2023-04-21 14:14:56,932	25677	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[main]	Continue with email displayed
+INFO	2023-04-21 14:15:07,840	36585	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[main]	Continue with Google displayed
+INFO	2023-04-21 14:15:07,867	36612	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[main]	Continue with email displayed
+INFO	2023-04-21 14:15:08,828	37573	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[main]	User Home Page Opened
+INFO	2023-04-21 14:15:19,078	47823	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[main]	Continue with email displayed
+INFO	2023-04-21 14:15:21,224	49969	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[main]	User cannot login to the application with invalid credentials
+INFO	2023-04-21 14:15:31,608	60353	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[main]	Continue with email displayed
+INFO	2023-04-21 14:15:33,796	62541	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[main]	User cannot login to the application with invalid credentials
+INFO	2023-04-21 14:15:44,314	73059	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[main]	Continue with email displayed
+INFO	2023-04-21 14:15:46,122	74867	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[main]	User cannot login to the application with blank email Id
+INFO	2023-04-21 14:15:55,890	84635	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[main]	Continue with email displayed
+INFO	2023-04-21 14:29:23,818	0	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[main]	TripAdvisor Home Page opened
+INFO	2023-04-21 14:31:45,095	0	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-1-thread-1]	TripAdvisor Home Page opened
+INFO	2023-04-21 14:32:03,512	18417	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-1-thread-2]	Continue with Google displayed
+INFO	2023-04-21 14:32:06,382	21287	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-1-thread-1]	Agoda logo has been displayed
+INFO	2023-04-21 14:32:10,807	25712	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-1-thread-1]	Sign In Link Is displayed and Clickable
+ERROR	2023-04-21 14:32:31,890	46795	com.tripAdvisor.webApp.base.BasePage	[pool-1-thread-2]	By.cssSelector: a[class='rmyCe _G B- z _S c Wc wSSLS w jWkoZ sOtnj']  Element Is not clickable
+ERROR	2023-04-21 14:32:31,916	46821	com.tripAdvisor.webApp.base.BasePage	[pool-1-thread-2]	By.cssSelector: a[class='rmyCe _G B- z _S c Wc wSSLS w jWkoZ sOtnj']  Element could Not Be found on DOM
+INFO	2023-04-21 14:32:51,523	66428	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-1-thread-2]	Continue with Google displayed
+INFO	2023-04-21 14:32:51,549	66454	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-1-thread-2]	Continue with email displayed
+INFO	2023-04-21 14:32:51,984	66889	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-1-thread-2]	User Home Page Opened
+ERROR	2023-04-21 14:33:06,794	81699	com.tripAdvisor.webApp.base.BasePage	[pool-1-thread-2]	By.cssSelector: button[class='ui_button w100p regEmailContinue newRegFormButtonStyles roundedRegFormButton emailButtonMargin']>span[class='textContainer']  Element could Not Be found on DOM
+INFO	2023-04-21 14:33:31,326	106231	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-1-thread-2]	Continue with email displayed
+ERROR	2023-04-21 14:33:52,116	127021	com.tripAdvisor.webApp.base.BasePage	[pool-1-thread-2]	By.xpath: //*[@id='regErrors']/ul/li  Element could Not Be found on DOM Within given wait time
+ERROR	2023-04-21 14:33:52,134	127039	com.tripAdvisor.webApp.base.BasePage	[pool-1-thread-2]	By.xpath: //*[@id='regErrors']/ul/li  Element could Not Be found on DOM
+INFO	2023-04-21 14:34:09,629	144534	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-1-thread-2]	Continue with email displayed
+INFO	2023-04-21 14:34:11,145	146050	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-1-thread-2]	User cannot login to the application with blank email Id
+ERROR	2023-04-21 14:34:40,216	175121	com.tripAdvisor.webApp.base.BasePage	[pool-1-thread-2]	By.cssSelector: a[class='rmyCe _G B- z _S c Wc wSSLS w jWkoZ sOtnj']  Element Is not clickable
+ERROR	2023-04-21 14:34:40,233	175138	com.tripAdvisor.webApp.base.BasePage	[pool-1-thread-2]	By.cssSelector: a[class='rmyCe _G B- z _S c Wc wSSLS w jWkoZ sOtnj']  Element could Not Be found on DOM
+INFO	2023-04-21 15:08:22,209	0	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[main]	TripAdvisor Home Page opened
+INFO	2023-04-21 15:08:52,478	30269	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[main]	Agoda logo has been displayed
+INFO	2023-04-21 19:21:18,658	1	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-3-thread-1]	TripAdvisor Home Page opened
+INFO	2023-04-21 19:21:22,528	3871	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-3-thread-1]	Agoda logo has been displayed
+INFO	2023-04-21 19:21:26,541	7884	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-3-thread-1]	Sign In Link Is displayed and Clickable
+INFO	2023-04-21 19:21:27,330	8673	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-3-thread-2]	Continue with Google displayed
+INFO	2023-04-21 19:21:37,071	18414	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-3-thread-2]	Continue with email displayed
+INFO	2023-04-21 19:21:48,066	29409	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-3-thread-2]	Continue with Google displayed
+INFO	2023-04-21 19:21:48,106	29449	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-3-thread-2]	Continue with email displayed
+INFO	2023-04-21 19:21:48,600	29943	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-3-thread-2]	User Home Page Opened
+INFO	2023-04-21 19:21:59,835	41178	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-3-thread-2]	Continue with email displayed
+INFO	2023-04-21 19:22:02,252	43595	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-3-thread-2]	User cannot login to the application with invalid credentials
+INFO	2023-04-21 19:22:12,854	54197	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-3-thread-2]	Continue with email displayed
+INFO	2023-04-21 19:22:14,964	56307	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-3-thread-2]	User cannot login to the application with invalid credentials
+INFO	2023-04-21 19:22:25,732	67075	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-3-thread-2]	Continue with email displayed
+INFO	2023-04-21 19:22:26,834	68177	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-3-thread-2]	User cannot login to the application with blank email Id
+INFO	2023-04-21 19:22:37,128	78471	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-3-thread-2]	Continue with email displayed
+ERROR	2023-04-21 19:30:25,404	0	com.tripAdvisor.webApp.base.BasePage	[main]	By.cssSelector: button[class='ui_button w100p regEmailContinue newRegFormButtonStyles roundedRegFormButton emailButtonMargin']>span[class='textContainer']  Element could Not Be found on DOM
+INFO	2023-04-21 19:33:32,690	0	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[main]	Continue with email displayed
+INFO	2023-04-21 19:38:05,759	0	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-3-thread-1]	TripAdvisor Home Page opened
+INFO	2023-04-21 19:38:09,483	3724	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-3-thread-1]	Agoda logo has been displayed
+INFO	2023-04-21 19:38:12,192	6433	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-3-thread-2]	Continue with Google displayed
+INFO	2023-04-21 19:38:13,797	8038	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-3-thread-1]	Sign In Link Is displayed and Clickable
+INFO	2023-04-21 19:38:22,596	16837	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-3-thread-2]	Continue with email displayed
+INFO	2023-04-21 19:38:32,730	26971	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-3-thread-2]	Continue with Google displayed
+INFO	2023-04-21 19:38:32,785	27026	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-3-thread-2]	Continue with email displayed
+INFO	2023-04-21 19:38:33,687	27928	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-3-thread-2]	User Home Page Opened
+INFO	2023-04-21 19:38:43,334	37575	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-3-thread-2]	Continue with email displayed
+INFO	2023-04-21 19:38:45,319	39560	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-3-thread-2]	User cannot login to the application with invalid credentials
+ERROR	2023-04-21 19:38:53,662	47903	com.tripAdvisor.webApp.base.BasePage	[pool-3-thread-2]	By.cssSelector: button[class='ui_button w100p regEmailContinue newRegFormButtonStyles roundedRegFormButton emailButtonMargin']>span[class='textContainer']  Element could Not Be found on DOM
+INFO	2023-04-21 19:39:04,190	58431	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-3-thread-2]	Continue with email displayed
+INFO	2023-04-21 19:39:06,015	60256	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-3-thread-2]	User cannot login to the application with blank email Id
+INFO	2023-04-21 19:39:16,419	70660	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-3-thread-2]	Continue with email displayed
+INFO	2023-04-21 19:41:51,549	0	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-3-thread-1]	Continue with email displayed
+INFO	2023-04-21 19:41:53,609	2060	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-3-thread-1]	User cannot login to the application with invalid credentials
+INFO	2023-04-21 19:42:03,934	12385	com.tripAdvisor.webApp.stepDefinationFiles.HomePageStepDefination	[pool-3-thread-1]	Continue with email displayed
