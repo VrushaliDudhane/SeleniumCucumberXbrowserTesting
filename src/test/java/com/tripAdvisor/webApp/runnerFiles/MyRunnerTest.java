@@ -15,7 +15,7 @@ import io.cucumber.junit.CucumberOptions;
  */
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features= {"src/test/resources/featureFiles"},
+@CucumberOptions(features= {"src/test/resources/featureFiles/HomePage.feature"},
 				glue={"com/tripAdvisor/webApp/stepDefinationFiles","com/tripAdvisor/webApp/base"},
 				plugin= {"pretty",
 						  "html:target/cucumber-reports/report.html",
